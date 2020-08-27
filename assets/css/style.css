@@ -52,17 +52,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -122,16 +112,16 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#content-img-right {
     max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
-.online-reputation-management img {
+.content-img-left {
     max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 h2 {
