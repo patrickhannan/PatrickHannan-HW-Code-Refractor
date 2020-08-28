@@ -32,7 +32,7 @@ In order to access the aside, the user must either scroll down the webpage manua
 
 For example, if you want to view the benefits of Online Reputation Management, the aside will be to the right and the user will see that the benefit is "Brand Awareness". There will be a description of this benefit below the title "Brand Awareness".
 
-
+![Reputation Management and Brand Awareness Aside](https://github.com/patrickhannan/PatrickHannan-HW-Code-Refractor/blob/master/assets/images/readmeexample.png)
 
 ## Credits
 
